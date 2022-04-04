@@ -12,8 +12,8 @@ For details of what's available on the command line check out
 the :ref:`cliref`.
 
 For file based configuration *SQLFluff* will look for the following
-files in order. Later files will (if found) will be used to overwrite
-any vales read from earlier files.
+files in order. Later files will (if found) be used to overwrite
+any values read from earlier files.
 
 - :code:`setup.cfg`
 - :code:`tox.ini`
